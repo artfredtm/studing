@@ -2,3 +2,4 @@
 $login = login;
 $pass = admin;
 $email = artem@fredtm.ru;
+$user = user;

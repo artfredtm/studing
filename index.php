@@ -19,13 +19,3 @@
 		<br /><br />
 		<script src = "./post.js"></script>
 		<input type="submit" name="submit" id="button" value="Жмяк">
-<<<<<<< HEAD
-=======
-				<script src = "./post.js"></script>
-		<input type="submit" name="submit" id="button" value="Жмяк">
->>>>>>> first
-	</form>
-
-
-</body>
-</html>
